@@ -1,12 +1,12 @@
 {
   "name": "password-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Password Generator",
   "main": "index.js",
   "scripts": {
     "dev": "webpack -w"
   },
-  "author": "",
+  "author": "Rodrigo Anchieta",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.6.4",
