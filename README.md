@@ -5,8 +5,8 @@ Projeto desenvolvido no curso de JavaScript e TypeScript do básico ao avançado
 ### Configurações:
 
 - Instale e configure o Node.js 
-- Npm install
-- Npm run dev
+- npm install
+- npm run dev
 
 Para mais detalhes entre em contato.
 
